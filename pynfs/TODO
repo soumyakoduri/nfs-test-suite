@@ -1,0 +1,56 @@
+- redundant nfs4.0/lib/ply ?
+
+- Create a new INFO result, lower-priority than WARN or FAIL, but that
+  might tell you interesting things about the server.  (E.g., whether it
+  supports some optional feature.  In which case further tests may
+  depend on it in some way.) ?  Actually, note there's already an
+  UNSUPPORTED result--maybe we just need to make better use of that.
+
+- Just out of curiosity--it would be interesting to open a file and then
+  rename it, to see whether a server allows it or returns
+  NFS4ERR_FILE_OPEN.  (Either is OK.)
+
+- I suspect we're sloppy about cleaning up state.  E.g. make sure opens
+  are normally closed.
+
+- make block/char/etc tests more automatic: use an INFO level test to
+  probe whether the server allows creating these things as a regular
+  user, or as root, give an INFO level result, and make further tests
+  depend on this somehow.
+
+- Search for other similar pieces between 4.0 and 4.1 which can obviously be
+  shared--any .x files?
+- compound length problem:
+	- everything should start with putfh of root of testdir rather
+	  than of root!
+		- first make use_obj an NFS4Client method, or replace it
+		  by one that is.
+		- then teach it to do absolute lookups (paths beginning
+		  with one '' component) and lookups relative to test root,
+		  simultaneously making all paths absolute (probably
+		  that's just --useXXX paths and homedir path).
+		- then slowly start using relative paths in various
+		  places.
+	- break up lookup into multiple compounds?
+	- consider also whether server could allow more.
+- Also track down remaining failures, reexamine skip lists.
+- Basic v4.0 DRC test.
+
+- More reorganization to make 4.0&4.1 directories parallel:
+	- note nfs4client.py is false parallelism.
+	- make testserver.py work for both, move to top level?
+	- revisit Fred's email
+
+- Add pynfs test to make sure server allows reclaims on next
+  reboot iff client has done reclaim_complete?  Unfortunately
+  I think this would be linux-specific.  What to do?:
+        - lock(file, range 0-2)
+        - send reclaim_complete
+        - reboot
+        - reclaim lock(file, range 3-4)
+        - reboot
+        - reclaim lock(file, range 3-4)
+        - if second succeeds (so server does not track individual
+          locks), then second should fail (because client did
+          not reclaim_complete)
+  ? But that's still not completely right

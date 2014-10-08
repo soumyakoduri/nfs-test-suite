@@ -1,0 +1,418 @@
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+
+==============================Results====================================
+ Total tests run : 1  
+ Tests passed    : 0  
+ Tests failed    : 1  
+=========================================================================
+=================Mount vol1 on the client in version 3===============
+==============================Running v3 tests==============================
+
+==============================Results====================================
+ Total tests run : 0  
+ Tests passed    : 0  
+ Tests failed    : 0  
+=========================================================================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+
+==============================Results====================================
+ Total tests run : 1  
+ Tests passed    : 0  
+ Tests failed    : 1  
+=========================================================================
+=================Mount vol1 on the client in version 3===============
+==============================Running v3 tests==============================
+
+==============================Results====================================
+ Total tests run : 0  
+ Tests passed    : 0  
+ Tests failed    : 0  
+=========================================================================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+
+==============================Results====================================
+ Total tests run : 1  
+ Tests passed    : 0  
+ Tests failed    : 1  
+=========================================================================
+=================Mount vol1 on the client in version 3===============
+==============================Running v3 tests==============================
+
+==============================Results====================================
+ Total tests run : 0  
+ Tests passed    : 0  
+ Tests failed    : 0  
+=========================================================================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+
+==============================Results====================================
+ Total tests run : 1  
+ Tests passed    : 0  
+ Tests failed    : 1  
+=========================================================================
+=================Mount vol1 on the client in version 3===============
+==============================Running v3 tests==============================
+
+==============================Results====================================
+ Total tests run : 0  
+ Tests passed    : 0  
+ Tests failed    : 0  
+=========================================================================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+pynfs is a v4 specific test, skipping  it.
+Nothing to be tested.
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+pynfs is a v4 specific test, skipping  it.
+Nothing to be tested.
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+
+==============================Results====================================
+ Total tests run : 1  
+ Tests passed    : 0  
+ Tests failed    : 1  
+=========================================================================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+
+==============================Results====================================
+ Total tests run : 1  
+ Tests passed    : 0  
+ Tests failed    : 1  
+=========================================================================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+in pynfs block.
+
+==============================Results====================================
+ Total tests run : 1  
+ Tests passed    : 0  
+ Tests failed    : 1  
+=========================================================================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+in pynfs block.
+
+==============================Results====================================
+ Total tests run : 1  
+ Tests passed    : 0  
+ Tests failed    : 1  
+=========================================================================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+
+==============================Results====================================
+ Total tests run : 1  
+ Tests passed    : 0  
+ Tests failed    : 1  
+=========================================================================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+
+==============================Results====================================
+ Total tests run : 1  
+ Tests passed    : 0  
+ Tests failed    : 1  
+=========================================================================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+
+==============================Results====================================
+ Total tests run : 1  
+ Tests passed    : 0  
+ Tests failed    : 1  
+=========================================================================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+
+==============================Results====================================
+ Total tests run : 1  
+ Tests passed    : 0  
+ Tests failed    : 1  
+=========================================================================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+
+==============================Results====================================
+ Total tests run : 1  
+ Tests passed    : 0  
+ Tests failed    : 1  
+=========================================================================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+
+==============================Results====================================
+ Total tests run : 1  
+ Tests passed    : 0  
+ Tests failed    : 1  
+=========================================================================
+============================== PYNFS TESTS BEGIN===============
+known_failures
+13
+pynfs tests failed, check logfile for details
+ TEST 3 : FAIL
+==============================TEST 3 ENDS=================================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+
+==============================Results====================================
+ Total tests run : 1  
+ Tests passed    : 0  
+ Tests failed    : 1  
+=========================================================================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+
+==============================Results====================================
+ Total tests run : 1  
+ Tests passed    : 0  
+ Tests failed    : 1  
+=========================================================================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+
+==============================Results====================================
+ Total tests run : 1  
+ Tests passed    : 0  
+ Tests failed    : 1  
+=========================================================================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+
+==============================Results====================================
+ Total tests run : 1  
+ Tests passed    : 0  
+ Tests failed    : 1  
+=========================================================================
+============================== PYNFS TESTS BEGIN===============
+known_failures
+13
+pynfs tests failed, check logfile for details
+ TEST 3 : FAIL
+==============================TEST 3 ENDS=================================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+
+==============================Results====================================
+ Total tests run : 1  
+ Tests passed    : 0  
+ Tests failed    : 1  
+=========================================================================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+
+==============================Results====================================
+ Total tests run : 1  
+ Tests passed    : 0  
+ Tests failed    : 1  
+=========================================================================
+============================== PYNFS TESTS BEGIN===============
+known_failures
+13
+pynfs tests failed, check logfile for details
+ TEST 3 : FAIL
+==============================TEST 3 ENDS=================================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+
+==============================Results====================================
+ Total tests run : 1  
+ Tests passed    : 0  
+ Tests failed    : 1  
+=========================================================================
+
+==============================LOG FILES==============================
+ Log file for the tests run  :    log1
+ Log file for ganesha.nfsd   :   /root/nfs-ganesha.log on the ganesha-host
+ Log file for pynfs test     :   /tmp/pynfs-results.txt
+=====================================================================
+['dbench_tests.py', 'fileop_tests.py', 'gluster_setup.py', 'success.py', 'ltp_tests.py', 'posix_compliance_tests.py', 'multiplefiles_tests.py', 'arequal_tests.py', 'pynfs_tests.py', 'compilekernel_tests.py', 'perf_tests.py', 'syscallbench_tests.py', 'counter.py', 'connectathon_tests.py', 'dir_tests.py', 'iozone_tests.py', 'file_tests.py', 'postmark_tests.py', 'logger.py']
+=================Mount vol1 on the client in version 4===============
+==============================Running v4 tests==============================
+
+==============================Results====================================
+ Total tests run : 1  
+ Tests passed    : 0  
+ Tests failed    : 1  
+=========================================================================

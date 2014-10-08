@@ -1,0 +1,17 @@
+#general garbage:
+*.orig
+.*
+!.gitignore
+
+# Generated files
+*.pyc
+*.pyo
+
+*_const.py
+*_type.py
+*_pack.py
+parser.out
+parsetab.py
+
+# setup.py files
+build/
